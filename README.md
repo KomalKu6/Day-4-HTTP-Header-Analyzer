@@ -1,4 +1,6 @@
 # Day-4-HTTP-Header-Analyzer
+Let' go 🚀
+
 objective: 
 Build a python tool that send a request to a target URL and fetches its http response headers to analyze security misconfigurations like:
 Missing Security Headers (e.g., Content-Security-Policy, X-Frame-Options)
@@ -17,8 +19,6 @@ What HTTP headers reveal about a target
 Why missing security headers are risky
 How to automate reconnaissance like a pro
 
-Let' go 🚀
-
 Features:
 Detects 7 critical HTTP security headers
 Gives suggestions for missing headers
@@ -33,4 +33,5 @@ How to use the requests module
 How web servers respond to header requests
 How to give security recommendations from missing headers
 How to write clean CLI tools for automation
+
 
