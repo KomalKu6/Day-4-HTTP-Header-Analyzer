@@ -18,3 +18,19 @@ Why missing security headers are risky
 How to automate reconnaissance like a pro
 
 Let' go 🚀
+
+Features:
+Detects 7 critical HTTP security headers
+Gives suggestions for missing headers
+Fast and easy to use — CLI based
+Ideal for bug bounty recon and security auditing
+Built from scratch to understand the internals
+
+Why I Built This?
+As a cybersecurity analyst and bug bounty learner, I wanted to understand how websites secure themselves through HTTP headers. Instead of using existing tools like securityheaders.com, I built my own analyzer in Python — this helped me understand:
+
+How to use the requests module
+How web servers respond to header requests
+How to give security recommendations from missing headers
+How to write clean CLI tools for automation
+
